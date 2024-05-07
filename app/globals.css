@@ -21,3 +21,9 @@
     text-wrap: balance;
   }
 }
+
+@table {
+  .home {
+    background-color: red;
+  }
+}
